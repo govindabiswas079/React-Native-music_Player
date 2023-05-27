@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://react-native-track-player.js.org/example/Longing.mp3",
+    "title": "Longing",
+    "artist": "David Chavez",
+    "artwork": "https://react-native-track-player.js.org/example/Longing.jpeg",
+    "duration": 143
+  },
+  {
+    "url": "https://react-native-track-player.js.org/example/Soul%20Searching.mp3",
+    "title": "Soul Searching (Demo)",
+    "artist": "David Chavez",
+    "artwork": "https://react-native-track-player.js.org/example/Soul%20Searching.jpeg",
+    "duration": 77
+  },
+  {
+    "url": "https://react-native-track-player.js.org/example/Lullaby%20(Demo).mp3",
+    "title": "Lullaby (Demo)",
+    "artist": "David Chavez",
+    "artwork": "https://react-native-track-player.js.org/example/Lullaby%20(Demo).jpeg",
+    "duration": 71
+  },
+  {
+    "url": "https://react-native-track-player.js.org/example/Rhythm%20City%20(Demo).mp3",
+    "title": "Rhythm City (Demo)",
+    "artist": "David Chavez",
+    "artwork": "https://react-native-track-player.js.org/example/Rhythm%20City%20(Demo).jpeg",
+    "duration": 106
+  }
+]
